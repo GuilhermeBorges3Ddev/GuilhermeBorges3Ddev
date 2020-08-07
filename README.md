@@ -48,8 +48,6 @@
 - [Apresentação de React-Redux para a Smarkio Brasil](https://www.linkedin.com/feed/update/urn:li:activity:6652391857160540160/)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 <!--<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorges3Ddev&show_icons=true&hide_border=true" />-->
 
 [website]: https://www.guilhermeborges.dev/
