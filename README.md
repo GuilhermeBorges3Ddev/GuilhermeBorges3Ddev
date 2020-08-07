@@ -50,7 +50,7 @@
 
 ---
 
-<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorges3Ddev&show_icons=true&hide_border=true" />
+<!--<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorges3Ddev&show_icons=true&hide_border=true" />-->
 
 [website]: https://www.guilhermeborges.dev/
 [youtube]: https://www.youtube.com/channel/UCMHtsITvjsvOoA7f2gNLL0Q
