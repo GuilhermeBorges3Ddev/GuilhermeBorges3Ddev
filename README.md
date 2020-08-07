@@ -1,7 +1,7 @@
 ## Welcome, I'm Guilherme - aka @GuilhermeBorges3Ddev 👋
 
 ### I'm a roots developer and a content creator!
-- 🔭 I’m currently working on my portfolio[website]!
+- 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m forever learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
