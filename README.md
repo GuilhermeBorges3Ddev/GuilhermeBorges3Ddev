@@ -36,16 +36,18 @@
 
 ---
 
-### 📺 Latest YouTube Video
+### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Entendendo Redux na prática](https://www.youtube.com/watch?v=JMJAd4R-SAw&t=330s)
+- [Aplicando React e suas props](https://www.youtube.com/watch?v=aMtguyjb5ss)
 <!-- YOUTUBE:END -->
 
 ---
 
-### 📕 Latest Linkedin Post
+### 📕 Latest Linkedin Posts
 <!-- BLOG-POST-LIST:START -->
 - [Apresentação de React-Redux para a Smarkio Brasil](https://www.linkedin.com/feed/update/urn:li:activity:6652391857160540160/)
+- [Convite para aprofundamento no React à partir de suas props](https://www.linkedin.com/posts/guilherme-borges-546158150_que-tal-se-aprofundar-um-pouco-mais-sobre-activity-6700630677152432128-LJVE)
 <!-- BLOG-POST-LIST:END -->
 
 <!--<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorges3Ddev&show_icons=true&hide_border=true" />-->
