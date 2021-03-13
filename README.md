@@ -40,6 +40,7 @@
 <!-- YOUTUBE:START -->
 - [Entendendo Redux na prática](https://www.youtube.com/watch?v=JMJAd4R-SAw&t=330s)
 - [Aplicando React e suas props](https://www.youtube.com/watch?v=aMtguyjb5ss)
+- [Privacidade: Onde estão nossos dados? Como as Big Techs nos manipulam?](https://www.youtube.com/watch?v=T4GYGyAR9sY)
 <!-- YOUTUBE:END -->
 
 ---
