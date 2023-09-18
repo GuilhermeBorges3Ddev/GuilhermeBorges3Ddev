@@ -4,12 +4,11 @@
 - 🔭 I’m currently working on my portfolio [website]!
 - 🌱 I’m forever learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love oil draws and rap music
+- 🥅 2023/2024 Goals: Contribute more to Open Source projects, learn Next and C#/.NET
 
 ### Connect with me:
 
-[<img align="left" alt="guilhermeborges.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="guilhermesoftwares.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Gborges | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gborges | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -36,24 +35,25 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Top 5 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Entendendo Redux na prática](https://www.youtube.com/watch?v=JMJAd4R-SAw&t=330s)
-- [Aplicando React e suas props](https://www.youtube.com/watch?v=aMtguyjb5ss)
-- [Privacidade: Onde estão nossos dados? Como as Big Techs nos manipulam?](https://www.youtube.com/watch?v=T4GYGyAR9sY)
+- [Try pure React, withour boilerplates like CRA or Vite](https://www.youtube.com/watch?v=e3DAL47KXBo)
+- [Javascript Loops - ForIn and ForOf](https://www.youtube.com/watch?v=FgwcA065ooA)
+- [Throwing errors on Javascript](https://www.youtube.com/watch?v=OAn4o6m-Jnw)
+- [Javascript Essential Methods: split(), splice() and slice()](https://www.youtube.com/watch?v=d6TbBQM1CiI)
+- [Javascript Constructor](https://www.youtube.com/watch?v=R8XCBTJI8tI)
 <!-- YOUTUBE:END -->
 
 ---
 
-### 📕 Latest Linkedin Posts
+### 📕 Latest Linkedin Post
 <!-- BLOG-POST-LIST:START -->
-- [Apresentação de React-Redux para a Smarkio Brasil](https://www.linkedin.com/feed/update/urn:li:activity:6652391857160540160/)
-- [Convite para aprofundamento no React à partir de suas props](https://www.linkedin.com/posts/guilherme-borges-546158150_que-tal-se-aprofundar-um-pouco-mais-sobre-activity-6700630677152432128-LJVE)
+- [Launching of my Crypto Course](https://www.linkedin.com/feed/update/urn:li:activity:7023423975292583936/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--<img align="left" alt="Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBorges3Ddev&show_icons=true&hide_border=true" />-->
 
-[website]: https://www.guilhermeborges.dev/
+[website]: https://www.guilhermesoftwares.net/
 [youtube]: https://www.youtube.com/channel/UCMHtsITvjsvOoA7f2gNLL0Q
 [instagram]: https://www.instagram.com/coderclubofficial/
 [linkedin]: https://www.linkedin.com/in/guilherme-borges-546158150/
